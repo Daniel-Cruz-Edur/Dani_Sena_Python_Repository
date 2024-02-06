@@ -14,3 +14,5 @@ elif Edad <= 18:
 else: 
     Ingreso = 10000;
     print("El costo de ingreso es de: ", Ingreso);
+    
+Validacion = int (input("Por favor, oprima una tecla para finalizar: "));
