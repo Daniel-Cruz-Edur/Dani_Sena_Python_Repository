@@ -20,6 +20,7 @@ def Sum(List_Numbers):
     for Index in range (Amount_Numbers):
         Numbers_Sum = Numbers_Sum + Integrer_Numbers[Index];
     
+    
         
 Login();
 Print(Integrer_Numbers);
